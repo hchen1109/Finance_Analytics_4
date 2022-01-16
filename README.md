@@ -1,4 +1,4 @@
-# Finance_Analytics_4
+# Finance Analytics 4
 
 
 This is a command-line interface application for evaluating four new investment options for inclusion in the client portfolios. It determines the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
@@ -17,7 +17,7 @@ This project leverages python 3.7 with the following packages:
 
 * [matplotlib] (https://matplotlib.org) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
-* [numpy](https://numpy.org/doc) - NumPy is the fundamental package for scientific computing in Python. 
+* [numpy] (https://numpy.org/doc) - NumPy is the fundamental package for scientific computing in Python. 
 
 ---
 
